@@ -8,4 +8,4 @@
 Ender/Enderman2452633YT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![ender-remaster-idle](https://user-images.githubusercontent.com/103882226/163711032-60ad6d1c-7ef6-4f8e-a20a-db435a348fc5.png) is my FNF oc
+![ender-remaster-idle](https://user-images.githubusercontent.com/103882226/163711032-60ad6d1c-7ef6-4f8e-a20a-db435a348fc5.png) This is my FNF oc
